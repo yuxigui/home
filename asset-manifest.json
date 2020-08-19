@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yuxigui/web/static/css/main.9fc689ea.chunk.css",
+    "main.js": "/yuxigui/web/static/js/main.e275e90e.chunk.js",
+    "main.js.map": "/yuxigui/web/static/js/main.e275e90e.chunk.js.map",
+    "runtime-main.js": "/yuxigui/web/static/js/runtime-main.0d33c31a.js",
+    "runtime-main.js.map": "/yuxigui/web/static/js/runtime-main.0d33c31a.js.map",
+    "static/css/2.11829350.chunk.css": "/yuxigui/web/static/css/2.11829350.chunk.css",
+    "static/js/2.45dadcb6.chunk.js": "/yuxigui/web/static/js/2.45dadcb6.chunk.js",
+    "static/js/2.45dadcb6.chunk.js.map": "/yuxigui/web/static/js/2.45dadcb6.chunk.js.map",
+    "index.html": "/yuxigui/web/index.html",
+    "precache-manifest.7f79c99567ea75dafcc66bd6f48ed1ff.js": "/yuxigui/web/precache-manifest.7f79c99567ea75dafcc66bd6f48ed1ff.js",
+    "service-worker.js": "/yuxigui/web/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/yuxigui/web/static/css/2.11829350.chunk.css.map",
+    "static/css/main.9fc689ea.chunk.css.map": "/yuxigui/web/static/css/main.9fc689ea.chunk.css.map",
+    "static/js/2.45dadcb6.chunk.js.LICENSE.txt": "/yuxigui/web/static/js/2.45dadcb6.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/yuxigui/web/static/media/resume.df26b6ff.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d33c31a.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.45dadcb6.chunk.js",
+    "static/css/main.9fc689ea.chunk.css",
+    "static/js/main.e275e90e.chunk.js"
+  ]
+}

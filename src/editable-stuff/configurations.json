@@ -5,7 +5,7 @@
   "FirstName": "Yu Xi",
   "MiddleName": "",
   "LastName": "Gui",
-  "devDesc": "| Programmer | Pianist | Athelete | Volunteer | Photographer ",
+  "devDesc": "| Programmer | Pianist | Athelete | Volunteer | Model ",
   "icons": [
     {
       "id": 0,
@@ -37,7 +37,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "yuxi_gui",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I am currently a sophomore majoring in Computer Science and intending to major in Cognitive Science at UC Berkeley. I was born in China, but I spent most of my childhood in Seattle, WA. So far, I have taken advantage of Berkeley by taking courses about Information Devices, Data Structures, Discrete Mathematics, and Probability Theory. In the fall, I will be taking Computer Architecture/Machine Structures and Efficient Algorithms & Intractable Problems. In my free time, I like to play basketball, piano, workout, and recently got invested in remixing Electronic Dance Music. ",
+  "aboutDescription": "I am currently a sophomore majoring in Computer Science and intending to major in Data Science at UC Berkeley. So far, I have taken advantage of my education at UC Berkeley by taking courses like Data Structures, Efficient Algorithms, Machine Structures, Information Devices, Discrete Mathematics and Probability Theory. In the spring, I will be taking Machine Learning and Operation Systems and System Programming. In my free time, I like to play basketball, piano, workout, model, attend coding Hackathons, and remixing Electronic Dance Music.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "yuxigui",

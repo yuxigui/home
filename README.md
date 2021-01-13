@@ -6,4 +6,4 @@
 
 * [React Native](https://reactnative.dev/)
 * [JavaScript](https://www.javascript.com/)
-* [CSS]
+* [HTML](https://html.spec.whatwg.org/)
